@@ -13,5 +13,5 @@ endif::[]
 == Resposta
 
 1. Qual padrão de projeto pode ser utilizado para resolver este problema? Implemente a solução (não precisa enviar mensagens de fato, apenas simular com prints).
-- O padrão que serve para resolver esses problemas é o Factory Method, ele permite encapsular a criação de objetos, evitando ter que usar 'ifs' ou 'switchs' em todos os lugares em que ocorre criação de obejtos.
+- O padrão que serve para resolver esses problemas é o Factory Method, ele permite encapsular a criação de objetos, evitando ter que usar 'ifs' ou 'switchs' em todos os lugares em que ocorre criação de objetos, também permitindo trocar o tipo de mensagem de forma desacoplada.
 
